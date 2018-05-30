@@ -1,6 +1,6 @@
 {
     "dev": {
-        "app_function": "zappa2.app",
+        "app_function": "run.app",
         "aws_region": "eu-west-1",
         "profile_name": "staging",
        "runtime": "python3.6",
